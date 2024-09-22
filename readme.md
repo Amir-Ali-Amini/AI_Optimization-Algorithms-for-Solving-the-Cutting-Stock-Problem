@@ -32,10 +32,18 @@ To solve the Cutting Stock Problem, we will implement the following algorithms:
 
 The project includes a comprehensive report detailing:
 
-- The functionality of the implemented code.
-- An analysis of the results obtained from each algorithm.
-- Enhancements made to improve the performance of the algorithms.
-
-## Conclusion
-
-This project explores an essential problem in operations research with practical applications in manufacturing and resource management. By leveraging advanced optimization techniques, we aim to contribute to more efficient material usage.
+- **SA:**
+  - Input1:
+    ![SA_input1](./someResults/SA_input1.png)
+  - Input4:
+    ![SA_input4](./someResults/SA_input4.png)
+- **Genetic Algorithm:**
+  - Input1:
+    ![Gen_input1](./someResults/Gen_input1.png)
+  - Input4:
+    ![Gen_input4](./someResults/Gen_input4.png)
+- **HC:**
+  - Input1:
+    ![HC_input1](./someResults/HC_input1.png)
+  - Input4:
+    ![HC_input4](./someResults/HC_input4.png)
