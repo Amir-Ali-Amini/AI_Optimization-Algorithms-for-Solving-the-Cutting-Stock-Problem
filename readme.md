@@ -34,16 +34,22 @@ The project includes a comprehensive report detailing:
 
 - **SA:**
   - Input1:
+
     ![SA_input1](./someResults/SA_input1.png)
   - Input4:
+
     ![SA_input4](./someResults/SA_input4.png)
 - **Genetic Algorithm:**
   - Input1:
+
     ![Gen_input1](./someResults/Gen_input1.png)
   - Input4:
+
     ![Gen_input4](./someResults/Gen_input4.png)
 - **HC:**
   - Input1:
+
     ![HC_input1](./someResults/HC_input1.png)
   - Input4:
+
     ![HC_input4](./someResults/HC_input4.png)
